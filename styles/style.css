@@ -209,12 +209,12 @@
     width: 240px;
     height: 240px;
     background-color: black;
-    border-radius: 50%; /* круглая форма */
+    border-radius: 50%;
 }
 
 .about__logo-image {
-    width: 141.45px;
-    height: 112.55px;
+    width: 141px;
+    height: 113px;
 }
 
 .about__title {
@@ -237,7 +237,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
     margin-top: 180px;
-    padding: 0px 50px 82px;
+    padding: 0 50px 82px;
 }
 
 .footer__menu {
@@ -248,14 +248,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 154.03px;
+    margin-left: 154px;
     list-style: none;
     font-size: 18px;
 }
 
 .footer__links-list-item {
     min-width: max-content;
-    list-style: none;
 }
 
 .footer__link {
@@ -265,8 +264,7 @@
 .footer__social-list {
     display: flex;
     gap: 48px;
-    margin-top: 1px;
-    margin-left: 177.5px;
+    margin-left: 178px;
     list-style: none;
 }
 
