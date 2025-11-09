@@ -6,10 +6,9 @@
 }
 
 .header__menu {
-    display: flex;
     margin-right: 37px;
-    max-width: 391px;
-    max-height: 22px;
+    width: 391px;
+    height: 22px;
 }
 
 .header__links-list {
@@ -20,8 +19,7 @@
 }
 
 .header__links-list-item {
-    min-width: max-content;
-    list-style: circle;
+
 }
 
 .header__link {
